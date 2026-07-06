@@ -2,13 +2,12 @@
 # M.S Student, CASYS Lab at KAIST
 - company: KAIST 
   position: M.S. Student, CASYS Lab 
-  duration: Sept, 2026 &mdash; Present
-  summary: Researching Processing-in-Memory (PIM) architecture and developing a compiler for PIM architecture. 
+  duration: September 2026 &mdash; Present
+  summary: Researching Processing-in-Memory (PIM) architectures and developing a compiler for PIM systems. 
 
 # Enerzai
 - company: Enerzai 
   position: Compiler Engineer 
-  duration: Aug, 2023 &mdash; Sept, 2024
-  summary: Developed a programming language "Nadya" for AI. <ul class="resume-item-list"><li>Design syntax/semantics of language include type inference</li><li>Implement language from scratch</li><li>LLVM/MLIR</li></ul>
-
+  duration: August 2023 &mdash; September 2024
+  summary: Developed Nadya, a programming language for AI. <ul class="resume-item-list"><li>Designed the language's syntax and semantics, including type inference</li><li>Implemented the language from scratch</li><li>Worked with LLVM/MLIR</li></ul>
 
